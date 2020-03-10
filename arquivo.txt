@@ -6,4 +6,10 @@ Roteiro de aula Git
 -Ferramentas
 -Conceitos
 -- init
-sf
+-- add
+-- commit
+-- log
+-- status
+-- push
+-- fetch
+-- pull
