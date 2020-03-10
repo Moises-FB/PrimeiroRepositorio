@@ -1,0 +1,8 @@
+Roteiro de aula Git
+
+*Bora descobrir como funfa esse trem:
+-Porque controlar versão
+-Como controlar ? (manual/svn/git)
+-Ferramentas
+-Conceitos
+-- init
